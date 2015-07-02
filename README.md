@@ -14,7 +14,7 @@ itHappened('a_revolution')    // => undefined
 
 ## Examples
 
-```
+``` javascript
 if (!FirstTime.hasItHappened('a_revolution')) {
 	// bear arms, then...
 	FirstTime.itHappened('a_revolution')
@@ -27,7 +27,7 @@ if (!FirstTime.hasItHappened('a_revolution')) {
 
 A promised based approach
 
-```
+``` javascript
 FirstTime.makeItHappen('a_revolution').then(function() {
 	// run some code only the first time
 	// it will automatically handle calling `itHappened` for you
