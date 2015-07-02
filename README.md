@@ -8,12 +8,12 @@
 
 ``` javascript
 // Ask if this event has already happened
-hasItHappened('a_revolution') // => false
+FirstTime.hasItHappened('a_revolution') // => false
 ```
 
 ``` javascript
 // Tell `FirstTime` that the event has already happened
-itHappened('a_revolution')    // => undefined
+FirstTime.itHappened('a_revolution')    // => undefined
 ```
 
 ## Examples
