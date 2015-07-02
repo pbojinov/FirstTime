@@ -1,9 +1,12 @@
 {
-  "name": "FirstTime",
+  "name": "first-time",
   "version": "0.1.0",
-  "homepage" : "http://www.youtube.com/watch?v=cDuG95DXbw8",
+  "homepage" : "https://github.com/pbojinov/first-time",
   "author" : {
-    "name" : "Obi-Wan Kenobi"
+    "name" : "Petar Bojinov"
+  },
+  "scripts": {
+    "test": "grunt test"
   },
   "dependencies": {},
   "devDependencies": {
