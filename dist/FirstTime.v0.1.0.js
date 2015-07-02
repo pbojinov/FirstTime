@@ -1,3 +1,6 @@
+/*! FirstTime - v0.1.0 - 2015-07-02
+* http://www.youtube.com/watch?v=cDuG95DXbw8
+* Copyright (c) 2015 Obi-Wan Kenobi; Licensed  */
 // Uses AMD or browser globals to create a module.
 
 // Grabbed from https://github.com/umdjs/umd/blob/master/amdWeb.js.
