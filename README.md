@@ -2,7 +2,7 @@
 
 > For all those times you want some code to only run once...
 
-[![Build Status](https://secure.travis-ci.org/petarbojinov/FirstTime.png?branch=master)](http://travis-ci.org/petarbojinov/FirstTime)
+[![Build Status](https://secure.travis-ci.org/petarbojinov/first-time.png?branch=master)](http://travis-ci.org/petarbojinov/first-time)
 
 ## API
 
