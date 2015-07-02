@@ -33,3 +33,7 @@ FirstTime.makeItHappen('a_revolution').then(function() {
 	// it will automatically handle calling `itHappened` for you
 });
 ```
+
+## License
+
+The MIT License (MIT)
