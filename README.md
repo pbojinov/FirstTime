@@ -7,10 +7,16 @@
 ## API
 
 * Ask if this event has already happened *
+
+``` javascript
 hasItHappened('a_revolution') // => false
+```
 
 * Tell `FirstTime` that the event has already happened
+
+``` javascript
 itHappened('a_revolution')    // => undefined
+```
 
 ## Examples
 
