@@ -1,9 +1,9 @@
 {
   "name": "first-time",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {},
   "devDependencies": {},
   "description" : "For all those times you want some code to only run once...",
-  "main": ["lib/FirstTime.js"]
+  "main": ["lib/first-time.js"]
 }
 

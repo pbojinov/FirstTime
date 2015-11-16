@@ -7,7 +7,7 @@
 define([
     'intern!bdd',
     'intern/chai!expect',
-    'lib/FirstTime',
+    'lib/first-time',
 ], function (bdd, expect, FirstTime) {
     
     with(bdd) {
