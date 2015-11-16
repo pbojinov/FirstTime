@@ -6,13 +6,13 @@
 
 ## Install
 
-```
+```bsh
 bower install first-time --save
 ```
 
 Then add it to your app:
 
-```
+```html
 <script src="bower_components/first-time/FirstTime.js"/>
 ```
 
