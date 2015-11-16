@@ -13,7 +13,7 @@ bower install first-time --save
 Then add it to your app:
 
 ```html
-<script src="bower_components/first-time/FirstTime.js"/>
+<script src="bower_components/first-time/first-time.js"/>
 ```
 
 ## API
