@@ -1,6 +1,6 @@
-/*! FirstTime - v0.1.0 - 2015-07-02
-* http://www.youtube.com/watch?v=cDuG95DXbw8
-* Copyright (c) 2015 Obi-Wan Kenobi; Licensed  */
+/*! first-time - v0.1.0 - 2015-11-15
+* https://github.com/pbojinov/first-time
+* Copyright (c) 2015 Petar Bojinov; Licensed  */
 // Uses AMD or browser globals to create a module.
 
 // Grabbed from https://github.com/umdjs/umd/blob/master/amdWeb.js.

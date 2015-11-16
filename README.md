@@ -4,6 +4,18 @@
 
 ![Build Status](https://api.travis-ci.org/pbojinov/first-time.svg?branch=master)
 
+## Install
+
+```
+bower install first-time --save
+```
+
+Then add it to your app:
+
+```
+<script src="bower_components/first-time/FirstTime.js"/>
+```
+
 ## API
 
 ``` javascript
