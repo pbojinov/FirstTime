@@ -21,9 +21,11 @@ FirstTime.itHappened('a_revolution')    // => undefined
 ``` javascript
 if (!FirstTime.hasItHappened('a_revolution')) {
 	// bear arms, then...
-	FirstTime.itHappened('a_revolution')
+	FirstTime.itHappened('a_revolution');
+	console.log('bear arms');
 } else {
 	// go home
+	console.log('go home, no revolution yet');
 }
 ```
 
